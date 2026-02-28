@@ -168,6 +168,3 @@ FROM (
 ) ranked
 WHERE ranking <= 3;
 
-SELECT VERSION();
-
-
